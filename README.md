@@ -8,6 +8,6 @@ In this talk we’ll share how we adapted face-to-face lectures for remote learn
 
 Click to access slides.
 
-<a href="https://github.com/matackett/active-remote-lecture/blob/master/active-remote-lecture.pdf"><img src='title-slide.png' align="center" height="450" width="600"/></a>
+<a href="https://github.com/matackett/active-remote-lecture/blob/master/active-remote-lecture.pdf"><img src='title-slide.png' width="600"/></a>
 
 ## Additional Resources
